@@ -1,0 +1,17 @@
+这是一个游戏项目，客户端使用Unity引擎，服务器使用C#开发
+
+一、目录
+
+在不同电脑上，目录不同，如果没有此组路径，则顺延查找下一组
+
+组一
+1.工程总目录：D:\sixgod\gitproject\test\Code
+2.客户端工程目录：D:\sixgod\gitproject\test\Code\Demo
+3.服务器工程目录：D:\sixgod\gitproject\test\Code\Demo\SweetServer_IOCP
+4.配置表目录：D:\sixgod\gitproject\test\Xls
+
+组二
+1.工程总目录：D:\sixgod\Svn\test\Code
+2.客户端工程目录：D:\sixgod\Svn\test\Code\Demo
+3.服务器工程目录：D:\sixgod\Svn\test\Code\Demo\SweetServer_IOCP
+4.配置表目录：D:\sixgod\Svn\test\Xls
