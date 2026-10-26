@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "settings": {
+    "click_interval_ms": 100,
+    "click_button": "left",
+    "click_type": "single",
+    "click_position": "cursor",
+    "fixed_x": 0,
+    "fixed_y": 0,
+    "click_repeat": "infinite",
+    "click_count": 100,
+    "hotkey_click": "f6",
+    "hotkey_record": "f7",
+    "hotkey_play": "f8",
+    "record_moves": true,
+    "record_clicks": true,
+    "record_keys": true,
+    "record_sample_px": 4,
+    "record_countdown": 3,
+    "record_minimize": true,
+    "play_lead_ms": 300,
+    "play_speed": 1.0,
+    "play_loops": 1,
+    "play_infinite": false,
+    "play_gap_ms": 150,
+    "play_minimize": true,
+    "click_ui_countdown": true,
+    "always_on_top": false,
+    "window_geometry": "1060x750+430+110",
+    "selected_macro": ""
+  }
+}

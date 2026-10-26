@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "settings": {
+    "paths": [
+      "D:\\sixgod\\gitproject\\slgconfiguration\\excel"
+    ],
+    "extensions": "xlsx",
+    "exclude_dirs": "",
+    "recursive": true,
+    "case_sensitive": true,
+    "search_office": true,
+    "skip_hidden": true,
+    "max_size_mb": 20,
+    "max_results": 3000,
+    "workers": 0,
+    "always_on_top": false,
+    "window_geometry": "1180x894+206+49"
+  }
+}

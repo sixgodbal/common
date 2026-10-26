@@ -1,0 +1,538 @@
+2026-10-26 11:20:52,920 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:20:54,293 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:20:55,024 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:20:55,601 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:20:56,609 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3311, in _on_global_action
+    self.stop_all()
+    ~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3338, in stop_all
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:01,142 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3311, in _on_global_action
+    self.stop_all()
+    ~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3338, in stop_all
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:01,146 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3311, in _on_global_action
+    self.stop_all()
+    ~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3338, in stop_all
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:01,817 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:02,603 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:02,603 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:03,635 ERROR 保存配置失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2021, in _save_config
+    write_json_atomic(CONFIG_PATH, self.cfg)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 414, in write_json_atomic
+    os.replace(tmp, path)
+    ~~~~~~~~~~^^^^^^^^^^^
+PermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'D:\\ai\\software\\鼠标点击器\\config.json.tmp' -> 'D:\\ai\\software\\鼠标点击器\\config.json'
+2026-10-26 11:21:06,698 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:06,712 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:07,480 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:07,480 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:09,217 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:09,233 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:09,550 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:09,749 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:10,200 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:10,533 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:22,190 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3311, in _on_global_action
+    self.stop_all()
+    ~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3338, in stop_all
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:26,495 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-26 11:21:31,097 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3311, in _on_global_action
+    self.stop_all()
+    ~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 3338, in stop_all
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\software\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
