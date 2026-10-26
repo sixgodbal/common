@@ -1,0 +1,4 @@
+<linker>
+  <!-- BinaryFormatter 通过反射读写 MapFile，防止 IL2CPP 裁剪掉相关字段和类型。 -->
+  <assembly fullname="Assembly-CSharp" preserve="all" />
+</linker>

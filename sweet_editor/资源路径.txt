@@ -1,0 +1,11 @@
+﻿# sweet_editor Android 打包资源路径
+# 修改后直接双击 一键打包.bat，打包脚本会优先读取本文件。
+# 格式：key=value；以 # 或 ; 开头的行为注释。
+# MapElem / Map / MapPreview 三项都填时，以这三项为准。
+# 如果只填 DataRoot，脚本会自动拼出 Sprites/MapElem、Map、Sprites/MapPreview。
+# MapElem=D:\sixgod\gitproject\test\Code\Demo\Assets\Data\Sprites\MapElem
+# Map=D:\sixgod\gitproject\test\Code\Demo\Assets\Data\Map
+# MapPreview=D:\sixgod\gitproject\test\Code\Demo\Assets\Data\Sprites\MapPreview
+DataRoot=D:\sixgod\gitproject\test\Code\Demo\Assets\Data
+
+# DataRoot=D:\sixgod\svn\Code\Demo\Assets\Data
