@@ -9,9 +9,11 @@
 2.客户端工程目录：D:\sixgod\gitproject\test\Code\Demo
 3.服务器工程目录：D:\sixgod\gitproject\test\Code\Demo\SweetServer_IOCP
 4.配置表目录：D:\sixgod\gitproject\test\Xls
+5.地图编辑器工程目录：D:\sixgod\gitproject\test\Code\MapEditor
 
 组二
 1.工程总目录：D:\sixgod\Svn\test\Code
 2.客户端工程目录：D:\sixgod\Svn\test\Code\Demo
 3.服务器工程目录：D:\sixgod\Svn\test\Code\Demo\SweetServer_IOCP
 4.配置表目录：D:\sixgod\Svn\test\Xls
+5.地图编辑器工程目录：D:\sixgod\Svn\test\Code\MapEditor

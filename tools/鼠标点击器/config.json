@@ -9,7 +9,7 @@
     "fixed_y": 0,
     "click_repeat": "infinite",
     "click_count": 100,
-    "hotkey_click": "f6",
+    "hotkey_click": "f3",
     "hotkey_record": "f7",
     "hotkey_play": "f8",
     "record_moves": true,
