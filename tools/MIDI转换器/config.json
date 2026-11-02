@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "settings": {
+    "format": "MP3",
+    "quality": {
+      "MP3": "192",
+      "WAV": "44100",
+      "FLAC": "0.6",
+      "OGG": "0.5"
+    },
+    "window_geometry": "200x200+-1676+381",
+    "last_dir": "D:\\ai\\git_tools\\common\\tools"
+  }
+}

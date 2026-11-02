@@ -536,3 +536,72 @@ Traceback (most recent call last):
   File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
     return getattr(self.tk, attr)
 AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-27 15:35:38,486 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-27 15:35:45,667 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
+2026-10-27 15:35:51,171 ERROR 界面回调失败
+Traceback (most recent call last):
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 1738, in _pump
+    fn()
+    ~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 903, in <lambda>
+    self._post(lambda a=action: self._on_action(a))
+                                ~~~~~~~~~~~~~~~^^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 3322, in _on_global_action
+    self.toggle_clicker(from_ui=False)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2745, in toggle_clicker
+    self.stop_clicker()
+    ~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2853, in stop_clicker
+    self._restore_after_click()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\ai\git_tools\common\tools\鼠标点击器\鼠标点击器.pyw", line 2857, in _restore_after_click
+    if self._click_minimized_by_us:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2546, in __getattr__
+    return getattr(self.tk, attr)
+AttributeError: '_tkinter.tkapp' object has no attribute '_click_minimized_by_us'
