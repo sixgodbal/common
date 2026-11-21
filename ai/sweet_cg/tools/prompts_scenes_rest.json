@@ -1,0 +1,18 @@
+[
+  {
+    "name": "场景_丛林入口",
+    "prompt": "Japanese chibi anime background illustration, no characters, wide 16:9 exterior shot, flat 2D look, no 3D render, thick clean line art only on main shapes, soft muted candy palette. The entrance to a lush candy jungle on a fruit planet: big rounded leaves, mint-green vines, warm sunlight beams filtering through the canopy, a small path of mossy stones leading inward, a few oversized berries growing at the roots, simple and readable composition with a clear path and open foreground space for characters. Calm, inviting, gentle afternoon light. No people, no text, no UI, no logo."
+  },
+  {
+    "name": "场景_林中小路",
+    "prompt": "Japanese chibi anime background illustration, no characters, wide 16:9 exterior shot, flat 2D look, no 3D render, thick clean line art only on main shapes, soft muted candy palette. A narrow jungle path: bright emerald foliage walls on both sides, scattered wild berries and hanging fruit, dappled sunlight on the ground, small stones and grass, cheerful spring-outing atmosphere, simple readable composition with open path in the center and clean foreground space for characters. No people, no text, no UI, no logo."
+  },
+  {
+    "name": "场景_阴森树林",
+    "prompt": "Japanese chibi anime background illustration, no characters, wide 16:9 exterior shot, flat 2D look, no 3D render, clean line art. Dark dense forest at night: desaturated blue-violet fog, twisted silhouettes of trees, low angle composition, heavy vignette, sparse cold moonlight, empty ground in the foreground, uneasy and quiet atmosphere. Muted low-saturation palette, deep teal and dusty purple, no gore, no creatures, no people, no text, no UI, no logo."
+  },
+  {
+    "name": "场景_巨蟒空间",
+    "prompt": "Japanese chibi anime background illustration, no characters, wide 16:9 shot, flat 2D look, no 3D render, clean line art. A dark clearing surrounded by huge tree trunks, ground covered in low purple mist, faint red glow coming from above behind the canopy, oppressive scale, empty center space, subtle pixel-glitch artifacts faintly visible in the fog, cinematic composition. Muted dark palette of bruised purple and deep teal, no creatures, no people, no text, no UI, no logo."
+  }
+]

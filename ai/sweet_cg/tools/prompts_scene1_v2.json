@@ -1,0 +1,7 @@
+[
+  {
+    "name": "场景_客厅_v2",
+    "image": ".\\scenes\\场景_客厅.png",
+    "prompt": "Japanese chibi anime background illustration, no characters, wide 16:9 interior shot, flat 2D look, no 3D render, thick clean line art only on main shapes. Keep the SAME room layout, same camera angle, same furniture positions: the CRT television on the left, the plush pastel sofa in the middle, the round coffee table, the rug, the big window on the right. SIMPLIFY everything: remove the balloons, remove most of the framed pictures (keep only two), remove the star and heart wall decals, remove the jellyfish and robot stickers, remove the bookshelf clutter, remove the many potted plants (keep one), remove the floor cushions, keep only ONE popcorn bag on the rug. Simplify the window view to plain soft pastel hills and sky, no candy houses, no lollipops, no floating islands, no planets. Calmer, softer, less saturated candy palette: muted cream, warm peach, dusty pink, pale mint. Softer warm afternoon light from the window, no glow, no lens flare, no sparkles, lower contrast, slightly dimmer. Ordinary cozy living room, cute but not flashy, clean and readable background, empty floor space in the foreground. No people, no text, no UI, no logo."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  { "dir": "characters", "src": "桑小墨_立绘.png",                    "dst": "sang.png" },
+  { "dir": "characters", "src": "桑小墨_立绘_cut.png",                "dst": "sang_cut.png" },
+  { "dir": "characters", "src": "卡布拉_立绘.png",                    "dst": "kabula.png" },
+  { "dir": "characters", "src": "卡布拉_立绘_cut.png",                "dst": "kabula_cut.png" },
+  { "dir": "characters", "src": "莓洛蒂_立绘.png",                    "dst": "meiluodi.png" },
+  { "dir": "characters", "src": "莓洛蒂_立绘_cut.png",                "dst": "meiluodi_cut.png" },
+  { "dir": "characters", "src": "小不甜_立绘_新裙_soft78.png",        "dst": "butian.png" },
+  { "dir": "characters", "src": "小不甜_立绘_新裙_soft78_cut.png",    "dst": "butian_cut.png" },
+  { "dir": "characters", "src": "巨蟒_像素凶狠.png",                  "dst": "snake.png" },
+  { "dir": "scenes",     "src": "场景_客厅_v2.png",                   "dst": "liv.png" },
+  { "dir": "scenes",     "src": "场景_丛林入口.png",                  "dst": "ent.png" },
+  { "dir": "scenes",     "src": "场景_林中小路.png",                  "dst": "path.png" },
+  { "dir": "scenes",     "src": "场景_阴森树林.png",                  "dst": "dark.png" },
+  { "dir": "scenes",     "src": "场景_巨蟒空间.png",                  "dst": "snk.png" },
+  { "dir": "characters", "src": "_lineup.png",                        "dst": "lineup.png" }
+]

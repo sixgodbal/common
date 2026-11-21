@@ -1,0 +1,10 @@
+[
+  {
+    "name": "10-1",
+    "scene": "snk",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "refs": ["shots\\_ref_10-1_pose.png"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette with red glow from above, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "Keep the exact same composition, camera angle, running poses, dust and background as the reference image. Change Meiluodi's expression (the girl on the right in the red dress with raspberry cape) to cute PANIC, not horror: brows raised in alarm, mouth open in a small scream, one sweat drop, eyes wide but still large and expressive with clearly visible teal-green pupils. Do NOT make blank white eyes, tiny pinprick pupils or an ugly distorted face — keep her cute. The other three keep their scared expressions. Nobody is smiling, no calm faces."
+  }
+]

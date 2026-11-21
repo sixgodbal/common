@@ -1,0 +1,10 @@
+[
+  {
+    "name": "10-2",
+    "scene": "snk",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "refs": ["风格测试\\巨蟒_方案A_横板5.5.jpg", "shots\\_ref_10-2_pose.png"],
+    "style": "cinematic 16:9 dark fantasy keyframe in the film's chibi world, pixel-art creature over a flat 2D painted clearing, chunky 16-bit pixels, glitch artifacts, deep purple and black palette, no 3D render.",
+    "prompt": "Keep the exact same composition, camera angle, poses and the giant pixel snake tail sweeping in from the right as the reference image. Change ALL FOUR characters' expressions to pure terror: wide eyes, raised brows, open mouths screaming, sweat drops, panicked body language. Nobody is smiling, no happy faces, no grins. Keep their exact designs, outfits and colors."
+  }
+]

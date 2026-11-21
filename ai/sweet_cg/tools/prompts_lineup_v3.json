@@ -1,0 +1,7 @@
+[
+  {
+    "name": "四人同框_v3",
+    "image": ".\\tools\\ref_lineup.png",
+    "prompt": "Keep the same four chibi characters exactly as they are in the reference image: same faces, same hair, same outfits, same colors, same art style, same cream background, same ground shadows, same left-to-right order. ONLY change the body height of the rightmost girl (dark purple hair, red eyes, silver-white rose hair ornaments, simple dark purple dress): she must be TALLER than before, so that she is now only slightly shorter than the girl standing next to her (dark brown bob, teal eyes, black noble dress with red strawberry puff sleeves). Height relationship after the change, left to right: the two boys are the tallest and about equal, the strawberry-dress girl is slightly shorter than them, and the purple-haired girl is only a little bit shorter than the strawberry-dress girl. Keep consistent 1:3 chibi proportions for all four, full body, plain cream background, thick clean line art with crisp white sticker outline, flat 2D, no 3D render. Do not add new characters, do not change outfits, no text, no logo."
+  }
+]

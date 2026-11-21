@@ -1,0 +1,10 @@
+[
+  {
+    "name": "8-1",
+    "scene": "dark",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "refs": ["shots\\_ref_8-1_pose.png"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "Keep the exact same composition, camera angle, running poses, dust and speed lines as the reference image. Change Kabula's expression (the blonde boy on the left) from extreme terror to cute PANIC: brows raised in alarm, mouth open in a shout, one sweat drop, eyes wide but still bright green with clearly visible pupils. Not a blank white-eyed horror face, no tiny pinprick pupils, not too scared. Keep the other three characters as they are and keep everyone's designs, outfits and colors."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "6-1",
+    "scene": "dark",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "wide shot in the dark forest, the four chibi characters standing still and nervously looking around, tense mood, cold moonlight through the twisted trees, low purple fog, uneasy atmosphere."
+  },
+  {
+    "name": "6-2",
+    "scene": "dark",
+    "chars": ["桑小墨", "莓洛蒂"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "close-up of Sang Xiaomo in the dark forest, his single ahoge trembling like a spring, he slowly hides behind Meiluodi, scared face, cold moonlight on his pale skin."
+  },
+  {
+    "name": "7-1",
+    "scene": "dark",
+    "chars": [],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render.",
+    "prompt": "extreme wide shot of the dark forest, three snake-like creature heads with glowing golden eyes peeking out from the bushes at different depths, dark scales, empty forest, no human characters, no people, deep darkness, purple fog."
+  },
+  {
+    "name": "7-2",
+    "scene": "dark",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "back view of the four chibi characters standing frozen in the dark forest, seen from behind, their backs to the camera, silhouettes rimmed by cold moonlight, no faces visible, tense stillness."
+  },
+  {
+    "name": "7-3",
+    "scene": "dark",
+    "chars": [],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render.",
+    "prompt": "extreme wide shot of the dark forest, dozens of snake-like creatures with glowing golden eyes emerging from the bushes all around, dark scaled heads, faint purple silhouettes, scanline glitch artifacts, no human characters, no people."
+  },
+  {
+    "name": "8-1",
+    "scene": "dark",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette, cold moonlight, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "side tracking shot, the four chibi characters sprinting in panic along the dark forest path, Sang Xiaomo leading the run, Kabula panicked but cute with visible bright green eyes and raised brows, not a blank white-eyed horror face, speed lines and dust kicking up, dynamic action, cold moonlight."
+  },
+  {
+    "name": "9-1",
+    "scene": "snk",
+    "chars": [],
+    "refs": ["风格测试\\巨蟒_方案A_横板5.5.jpg"],
+    "style": "cinematic 16:9 dark fantasy keyframe in the film's chibi world, flat 2D painted background with a pixel-art creature, chunky 16-bit pixels, glitch artifacts, deep purple and black palette, no 3D render.",
+    "prompt": "low angle shot, a giant pixel-art snake head slowly descending from the dark canopy above the clearing, dark bruised purple scales, huge golden slit eyes with a blood-red glowing rim, menacing silent stare, scanline glitch, no people."
+  },
+  {
+    "name": "9-2",
+    "chars": [],
+    "refs": ["风格测试\\巨蟒_方案A_横板5.5.jpg"],
+    "style": "cinematic 16:9 dark fantasy keyframe in the film's chibi world, flat 2D painted background with a pixel-art creature, chunky 16-bit pixels, glitch artifacts, deep purple and black palette, no 3D render.",
+    "prompt": "extreme close-up, one giant golden snake eye filling half of the frame, vertical slit pupil, blood-red glowing rim, pixel glitch and scanline artifacts, empty pupil with no reflections, no characters, no people, no silhouettes."
+  },
+  {
+    "name": "10-1",
+    "scene": "snk",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, desaturated deep blue-violet night palette with red glow from above, 3-tone cel shading, no 3D render, no realistic skin.",
+    "prompt": "high angle wide shot, the four chibi characters scattering in four different directions across the dark clearing, all faces panicked and scared, Meiluodi especially panicked but still cute with visible teal eyes, dust, cold moonlight and a faint red glow from above, dynamic."
+  },
+  {
+    "name": "10-2",
+    "scene": "snk",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "refs": ["风格测试\\巨蟒_方案A_横板5.5.jpg"],
+    "style": "cinematic 16:9 dark fantasy keyframe in the film's chibi world, pixel-art creature over a flat 2D painted clearing, chunky 16-bit pixels, glitch artifacts, deep purple and black palette, no 3D render.",
+    "prompt": "slow-motion wide shot, a giant pixel-art snake tail sweeping horizontally across the dark clearing from the right side, chunky dark purple scales, motion blur and glitch trails, the four tiny chibi characters diving away, all four faces showing pure terror with wide eyes and open mouths, no smiles, no gore."
+  }
+]

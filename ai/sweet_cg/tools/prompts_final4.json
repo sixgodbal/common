@@ -1,0 +1,22 @@
+[
+  {
+    "name": "桑小墨_立绘",
+    "image": ".\\tools\\refs4\\char_1.png",
+    "prompt": "Japanese chibi anime full body character illustration, single character, standing, plain cream background, thick clean line art with crisp white sticker outline, flat 2D, no 3D render. Keep the EXACT same character design as the reference image: messy dark-brown near-black hair with one ahoge strand, cool half-lidded blue eyes, pale skin, white dress shirt with black ribbon bow tie and dark waistcoat, arms crossed, aloof expression. Same face, same hair, same outfit, same colors, same chibi proportions. Higher quality redraw, clean edges, no extra accessories, no text, no UI."
+  },
+  {
+    "name": "卡布拉_立绘",
+    "image": ".\\tools\\refs4\\char_2.png",
+    "prompt": "Japanese chibi anime full body character illustration, single character, standing, plain cream background, thick clean line art with crisp white sticker outline, flat 2D, no 3D render. Keep the EXACT same character design as the reference image: pale butter-yellow star-shaped spiky hair, thin dark goggle strap with pale-blue round lenses on the forehead, fair skin, bright green eyes, big happy grin, olive-khaki explorer vest, brown backpack with a rolled map scroll, khaki shorts, brown boots. Same face, same hair, same outfit, same colors, same chibi proportions. Higher quality redraw, clean edges, no tan skin, no elf ears, no extra accessories, no text, no UI."
+  },
+  {
+    "name": "莓洛蒂_立绘",
+    "image": ".\\tools\\refs4\\char_3.png",
+    "prompt": "Japanese chibi anime full body character illustration, single character, standing, plain cream background, thick clean line art with crisp white sticker outline, flat 2D, no 3D render. Keep the EXACT same character design as the reference image: dark brown bob with straight bangs, teal-green eyes, fair skin, white lace headdress with a small blue flower and red ribbon, elegant black noble dress with big red strawberry-textured puff sleeves, white lace trim, strawberry ornaments, black boots. Same face, same hair, same outfit, same colors, same chibi proportions. Higher quality redraw, clean edges, no maid apron, no extra accessories, no text, no UI."
+  },
+  {
+    "name": "小不甜_立绘",
+    "image": ".\\tools\\refs4\\char_4.png",
+    "prompt": "Japanese chibi anime full body character illustration, single character, standing, plain cream background, thick clean line art with crisp white sticker outline, flat 2D, no 3D render. Keep the EXACT same character design as the reference image: fluffy dark purple short hair, two big silver-white rose-shaped hair ornaments on both sides of the head, large red eyes, fair skin, soft gentle smile, simple dark purple-black short dress with a lace collar and ruffled hem, black tights, dark shoes. Same face, same hair, same outfit, same colors, same chibi proportions. Higher quality redraw, clean edges, no gothic accessories, no crosses, no chains, no text, no UI."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "7-1_fix",
+    "image": ".\\shots\\7-1.png",
+    "prompt": "Japanese chibi anime background illustration, no characters visible, wide 16:9, flat 2D look, no 3D render, dark desaturated blue-violet forest at night with moonlight and fog. Keep the EXACT same composition, same trees, same moonlight, same path, same lighting and mood. ONLY change the glowing eyes: they must be SNAKE eyes — narrow almond shape with vertical slit pupils, amber-gold iris with a thin red rim, angular reptilian brow ridge, set into elongated flat snake head silhouettes that blend into the shadows. No ears of any kind, no cat ears, no round furry animal faces, no owl faces, no cute creatures. Three pairs of eyes at different depths, the nearest pair larger. No text, no UI."
+  },
+  {
+    "name": "7-3_fix",
+    "image": ".\\shots\\7-3.png",
+    "prompt": "Japanese chibi anime background illustration, no characters visible, wide 16:9, flat 2D look, no 3D render, dark desaturated blue-violet forest at night with faint scanline glitch artifacts. Keep the EXACT same composition, same trees, same path, same camera, same lighting and mood. ONLY change the glowing eyes: every pair must be SNAKE eyes — narrow almond shape with vertical slit pupils, amber-gold iris with a thin red rim, angular reptilian brow, set into flat wedge-shaped snake head silhouettes and faint coiled bodies hidden in the darkness. Dozens of pairs at many depths, nearest ones larger. No ears of any kind, no cat ears, no round furry animal faces, no owl faces, no cute creatures. No text, no UI."
+  },
+  {
+    "name": "8-1_fix",
+    "image": ".\\shots\\8-1.png",
+    "prompt": "Japanese chibi anime illustration, wide 16:9, flat 2D look with clean line art. Keep the EXACT same composition: four chibi characters running through a dark blue-violet forest at night, same positions, same poses, same outfits, same lighting, same speed lines and dust. ONLY change the face of the LEFTMOST character (blonde spiky hair, goggles on forehead, olive vest, backpack): he must look TERRIFIED instead of smiling — wide frightened eyes with small pupils, eyebrows raised and tilted, mouth open in a panicked scream, cold sweat drops on his cheek, no smile, no grin, no happy expression. Keep every other character exactly as they are. No text, no UI."
+  }
+]

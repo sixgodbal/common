@@ -1,0 +1,91 @@
+[
+  {
+    "name": "1-1",
+    "scene": "liv",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "prompt": "wide shot of a cozy but richly decorated, cluttered candy living room: patterned wallpaper, shelves full of jars and books, many potted plants, framed pictures, plush cushions, toys, building blocks and snack bags scattered on the rug, a big CRT television on the left showing a sports football match. The blonde boy KABULA (star-shaped golden hair, goggles on forehead, olive vest, backpack) sits on the LEFT side of the big pastel sofa, leaning far forward with clenched fists, tense and excited, eyes fixed on the football match. The dark-haired boy SANG XIAOMO (white shirt, black ribbon bow, navy shorts) stands beside the round coffee table in the center, pouring tea from a teapot into a teacup. The smallest girl XIAOBUTIAN (dark purple hair, two big silver-white rose ornaments, white dress) sits on the rug in the foreground hugging a brown teddy bear. The girl MEILUODI (dark brown bob, white lace headdress, red raspberry cape) sits on the RIGHT side of the same sofa blowing soap bubbles with a bubble wand, bubbles floating in the warm light. detailed cozy clutter, warm afternoon light."
+  },
+  {
+    "name": "1-2",
+    "scene": "liv",
+    "chars": ["卡布拉", "桑小墨"],
+    "prompt": "medium shot inside the living room, Kabula excitedly grabbing the TV remote with one hand, popcorn bursting up into the air, Sang Xiaomo sitting beside him covered in popcorn, his single ahoge springing straight up, annoyed comedic face, dynamic comedic moment."
+  },
+  {
+    "name": "1-3",
+    "scene": "liv",
+    "chars": ["小不甜"],
+    "prompt": "extreme close-up of Xiaobutian's face in the living room, the TV light shifting from cool blue to blinding white and reflecting in her large red eyes, her silver-white rose hair ornaments catching the white glow, expressionless mysterious face, shallow depth of field."
+  },
+  {
+    "name": "2-1",
+    "chars": [],
+    "prompt": "empty jungle interior, absolutely no people and no characters, a single tall vertical pillar of pure white light shooting up from the ground between the giant trees, strong god rays through the canopy, a flock of birds flying away as tiny silhouettes, lush candy-green foliage, mysterious and awe-inspiring, high contrast, mint green and overexposed white palette."
+  },
+  {
+    "name": "2-2",
+    "chars": [],
+    "prompt": "flat 2D Japanese chibi anime style macro close-up in the film's graphic look, NOT a photograph. One simple oversized stylized dewdrop resting on a single rounded cartoon jungle leaf, the drop drawn as a clean glossy shape with a white highlight and mint rim light, a thin vertical beam of white light passing through it, one small sparkle. Simple flat dark-green background with two or three soft leaf silhouettes, no bokeh, no depth-of-field blur, no lens flare, no realistic water, no macro photography, no photorealistic texture. Thick soft dark outline, 3-tone cel shading, candy colors, clean and readable."
+  },
+  {
+    "name": "3-1",
+    "scene": "liv",
+    "chars": ["小不甜"],
+    "prompt": "medium close-up of Xiaobutian standing frozen in the living room, expressionless, huge red eyes reflecting the white light, white glow rimming her silver-white rose hair ornaments and dark purple hair, uneasy quiet moment."
+  },
+  {
+    "name": "3-2",
+    "scene": "liv",
+    "chars": ["小不甜"],
+    "prompt": "close-up of Xiaobutian in the living room, a bold glossy comic exclamation mark popping out above her head, she snaps her head to the side, surprised, dynamic pop effect, motion lines."
+  },
+  {
+    "name": "4-1",
+    "scene": "liv",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "prompt": "high angle top-down wide shot, four chibi characters crouching in a circle on the living room rug having a secret meeting, Kabula gesturing with both hands, the others listening, scattered popcorn and snack bags around, cozy room."
+  },
+  {
+    "name": "4-2",
+    "scene": "liv",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "prompt": "close-up of Sang Xiaomo in the living room, arms crossed and tugging at his big black ribbon bow, reluctant annoyed face, three other hands pulling him from the edges of the frame, comedic."
+  },
+  {
+    "name": "4-3",
+    "scene": "liv",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "prompt": "wide shot in the living room, Kabula pulling his goggles down over his eyes as a departure ritual, all four characters raising their hands and cheering, warm bright light, excited mood."
+  },
+  {
+    "name": "5-1",
+    "scene": "path",
+    "chars": ["卡布拉", "小不甜", "莓洛蒂", "桑小墨"],
+    "prompt": "wide side-view shot on the sunny jungle path, the four chibi characters walking together at a leisurely pace toward the left, chatting and laughing, relaxed and playful: Kabula gesturing while telling a story, Xiaobutian skipping and playing with a small flower, Meiluodi smiling and looking around, Sang Xiaomo strolling with his hands in his pockets; loose casual group, warm afternoon sunlight, dappled shadows, floating dust motes, happy spring outing, no running, no speed lines."
+  },
+  {
+    "name": "5-2",
+    "scene": "path",
+    "chars": ["小不甜", "卡布拉"],
+    "prompt": "medium shot on the jungle path, Xiaobutian jumping up to pick a hanging fruit, Kabula below with his arms out trying to catch it and missing, the fruit falling, comedic, sunny."
+  },
+  {
+    "name": "5-3",
+    "scene": "path",
+    "chars": ["莓洛蒂"],
+    "prompt": "close-up portrait of Meiluodi on the jungle path, proud composed smile, a few freshly picked berries tucked into the folds of her huge raspberry-textured shoulder cape, she casually wipes one hand against the other, exactly two hands, no basket, no bowl, no other people, no extra hands."
+  },
+  {
+    "name": "5-4",
+    "scene": "path",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "prompt": "wide backlit shot on the jungle path, the four chibi characters walking away and getting smaller, sun rays through the trees, long shadows, warm nostalgic mood."
+  },
+  {
+    "name": "5-5",
+    "scene": "path",
+    "chars": ["桑小墨", "卡布拉", "莓洛蒂", "小不甜"],
+    "style": "high-quality Japanese chibi anime illustration, cinematic 16:9 keyframe, flat 2D look, thick soft dark line art, 3-tone cel shading, palette shifting from warm gold to cool blue-violet, no 3D render, no realistic skin.",
+    "prompt": "low angle shot from near the ground on the jungle path at late dusk, the four chibi characters seen from behind walking away into the darker part of the forest, their silhouettes small against the path, a last patch of warm golden sunset light far down the trail, most of the frame falling into cool blue-violet shadow, one big dark foreground leaf, thin cold mist starting to rise from the ground, sky between the trees turning deep purple, quiet uneasy mood, time passing from day to night."
+  }
+]
