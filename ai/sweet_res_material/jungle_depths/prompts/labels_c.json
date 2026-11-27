@@ -1,0 +1,10 @@
+{
+  "title": "丛林深处 · 亮度微调（D 的结构 + B 的亮感）",
+  "subtitle": "seed 1120  ·  同一张地图概念，仅调整曝光；推荐 C（level 3）",
+  "labels": [
+    { "tag": "A", "name": "L1 接近原 D", "en": "SUBTLY LIFTED", "sub": "保留古树庭院的层次，暗部略微提亮，整体仍偏沉" },
+    { "tag": "B", "name": "L2 中间偏暗", "en": "MEDIUM SOFT", "sub": "柔和的林下光，比 D 亮、比 B 暗，对比度低" },
+    { "tag": "C", "name": "L3 推荐平衡", "en": "BALANCED", "sub": "淡绿上午光：亮而柔，阴影只压 1–2 阶，细节不糊" },
+    { "tag": "D", "name": "L4 最亮", "en": "BRIGHTEST", "sub": "接近第二批 B，但高光已压低，不会发白过曝" }
+  ]
+}

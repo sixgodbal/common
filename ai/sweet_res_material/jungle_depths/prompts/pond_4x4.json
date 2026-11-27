@@ -1,0 +1,8 @@
+[
+  {
+    "name": "jungle_depths_pond_4x4",
+    "image": "D:\\ai\\git_tools\\common\\ai\\sweet_res_material\\jungle_depths\\out\\ref_l2.png",
+    "seed": 1510,
+    "prompt": "16-bit pixel art top-down SHALLOW WATER SURFACE texture for a pale-green jungle pond, one single continuous square texture filling the entire canvas edge to edge. No tiles, no grid, no seams, no border, no bank, no shore, no objects, no plants, no fish, no text, no labels, no watermark, no shadow. Calm clear pale blue-green water with soft small ripple lines and a few tiny light sparkles, low contrast, even lighting, subtle dappling, matching a pale-green jungle palette (pale mint, soft teal, cream-white highlights). Crisp chunky pixels, flat cel shading, no anti-aliasing, no blur, no photo texture, no 3D render, no isometric camera. The texture must look natural and continuous across the whole square, with no strong repeating motif and no visible tile grid."
+  }
+]

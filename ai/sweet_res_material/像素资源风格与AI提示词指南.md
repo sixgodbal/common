@@ -95,9 +95,10 @@
 |---|---|
 | 基础格 | **40×40 px**（100 PPU = 0.4 Unity 单位） |
 | 地面/水 | 40×40，四边可无缝平铺 |
-| 墙 | 宽 40（可 42），高 49–81（底 40 + 向上溢出 9–41px），**底边对齐** |
+| 墙 | 宽 40（可 42），高 49–81（底 40 + 向上溢出 9–41px），**底边贴格、底座居中** |
 | 砖块 | 底面 40×40 + 10–20px 高度，成品约 42–48×49–60；特殊大砖 80×80（2×2） |
 | 组合墙 | N×M 格，整图一张；实测：161×110(4×2.75)、200×154(5×3.85)、600×80(15×2)、120×520(3×13) |
+| **元素对格** | **所有单独元素的底座（footprint）中心必须与格子中心重合**；底座按 40×40 设计占地计算，不是可见窄底。元素可高矮不同，只允许向上溢出，水平/纵深不得偏移半格或整格。画布可比 40 宽（如 42），但多出的像素必须左右对称。 |
 | 角色整体 | 画布 100×100；裸身实际绘制区域约 **43×63**，叠帽子/背饰后可超出画布 |
 | 角色部件 | 各自独立画布，围绕**同一中心点**绘制（中心 pivot 0.5,0.5），叠合即成型 |
 | 锚点 | 地图元素：**bottom-left**（Unity alignment 6, pivot 0,0）；角色部件：**center** |
@@ -322,7 +323,7 @@ organic irregular boundary with small pebbles, 8-color, transparent outside shap
 
 ### 7.1 设计规则
 
-- 占 1 格（40 宽），**向上长高 9–41px** 表现体积；底部对齐格子。
+- 占 1 格（40×40 底座），**向上长高 9–41px** 表现体积；**底座中心必须与格子中心重合**，底边贴格子底边，只向上溢出，不左右偏移。
 - 轮廓必须清晰、饱满，像“摆在地图上的玩具/雕塑”，而不是墙纸。
 - 顶面受光最亮，正面中间调，底座/侧面最暗；可加 1px 高光线。
 - 主题可以是任何东西：鼓、蛋糕、宝箱、雪人、仙人掌、树、冰晶、机器人、售卖机、城楼、墓碑、路牌……
@@ -334,10 +335,11 @@ organic irregular boundary with small pebbles, 8-color, transparent outside shap
 ```text
 single destructible block prop for a bomberman-style game, [Chinese drum / treasure chest / snowman],
 40x40 footprint with 12 px height overhang, front-facing 3/4 top-down view,
+base footprint centered exactly on the grid cell (base midpoint = cell centre), no half-cell offset,
 top face brightest, front face darker, 1px selective dark outline, 16-color saturated palette,
 transparent background, bottom aligned, centered, no shadow
 ```
-`中文：炸弹人玩法单格装饰块，[国风大鼓/宝箱/雪人]，40×40占地+12px向上高度，正面微俯视，顶面最亮正面偏暗，1px深色描边，16色高饱和，透明底，底边对齐，居中，无投影`
+`中文：炸弹人玩法单格装饰块，[国风大鼓/宝箱/雪人]，40×40占地+12px向上高度，正面微俯视，**底座中心严格对齐格子中心、不允许半格偏移**，顶面最亮正面偏暗，1px深色描边，16色高饱和，透明底，底边对齐，居中，无投影`
 
 ---
 
@@ -347,6 +349,7 @@ transparent background, bottom aligned, centered, no shadow
 
 - 多格拼合的大型装饰物：城门、城堡、树、猫巴士、汽车、小店、咖啡机、海盗船、冰雕、竹林水柱……
 - 尺寸按整格：2×2、3×2、4×3、5×4，长条可 17×4 / 15×2，竖向 3×13。
+- **底座按整数格覆盖，底座中心与网格中心重合**；不允许半格偏移，也不允许“2.5×3.5”这种非整数占地。
 - 结构要有“地基—主体—屋顶/招牌—装饰”层次；门/窗/招牌是视觉焦点。
 - 剪影清楚：玩家要能立刻判断哪里能走、哪里挡路。
 - 与单格墙同画风、同光源、同描边；可以更精细（20–30 色），但**单像素点大小不变**。
@@ -356,11 +359,11 @@ transparent background, bottom aligned, centered, no shadow
 
 ```text
 pixel art multi-tile structure for a top-down bomberman game, [Chinese palace gate],
-footprint 5x3 tiles (200x120 px), built on a 40 px grid, layered depth,
+footprint 5x3 tiles (200x120 px), built on a 40 px grid, base footprint covers whole tiles and is centered on the grid (no half-tile offset), layered depth,
 bright top surfaces, darker base, 1px selective outline, 20-color saturated palette,
 transparent background, bottom aligned, no shadow
 ```
-`中文：像素风多格组合建筑，[国风城楼门]，占5×3格(200×120)，按40px网格构建，层次分明，顶亮底暗，1px描边，20色高饱和，透明底，底边对齐，无投影`
+`中文：像素风多格组合建筑，[国风城楼门]，占5×3格(200×120)，按40px网格构建，**底座按整数格覆盖且居中、不允许半格偏移**，层次分明，顶亮底暗，1px描边，20色高饱和，透明底，底边对齐，无投影`
 
 长条/竖向：
 ```text
@@ -374,7 +377,8 @@ seamless horizontally, 1px outline, transparent background
 
 ### 9.1 设计规则
 
-- **顶面大、正面矮**：顶面 40×40 左右，正面 10–15px 深色底座，像软糖/巧克力块。
+- **顶面大、正面矮**：顶面 40×40 与格子完全重合，正面 10–15px 深色底座，像软糖/巧克力块。
+- **底座中心 = 格子中心**：正面高度只做视觉溢出，底座不得水平/纵深错位；2×2 大砖按 80×80 整数格居中。
 - 顶面印图标或符号：数字、问号、星星、宝箱、炸弹、猫脸、汉字（武/爵）、花纹。
 - 颜色承担功能语义：普通（绿/木/石）、高价值（金/宝箱）、特殊（冰蓝、南瓜橙、礼物红）。
 - 可推砖（MoveBrick）要更像“箱子/冰块”，侧面有滑轨感。
@@ -385,11 +389,12 @@ seamless horizontally, 1px outline, transparent background
 
 ```text
 soft destructible block for a bomberman game, 40x40 top face + 12 px tall front,
+top face centered exactly on the grid cell (base midpoint = cell centre), no half-cell offset,
 [star icon / number 5 / bomb symbol] printed on the top, beveled candy-like edges,
 dark base band, 1px selective outline, glossy highlight, 12-color saturated palette,
 transparent background, centered, bottom aligned
 ```
-`中文：炸弹人可破坏软砖，40×40顶面+12px正面高度，顶面印[星星/数字5/炸弹图标]，圆角软糖质感，深色底座，1px描边，高光，12色高饱和，透明底，居中，底边对齐`
+`中文：炸弹人可破坏软砖，40×40顶面+12px正面高度，**底座中心严格对齐格子中心、不允许半格偏移**，顶面印[星星/数字5/炸弹图标]，圆角软糖质感，深色底座，1px描边，高光，12色高饱和，透明底，居中，底边对齐`
 
 破坏动画：
 ```text
@@ -428,6 +433,8 @@ chunks shrink and fade out, no motion blur, transparent background
 
 ```text
 16-bit pixel art, 2D top-down bomberman-style game asset, crisp hand-placed pixels,
+every prop's 40x40 base footprint centered exactly on its grid cell (base midpoint = cell centre),
+only height may overhang upward, no half-cell or full-cell offset,
 1px selective dark outline, saturated toy-like palette (12-20 colors),
 flat cel shading with 2-3 tones, subtle dithering, top-left light,
 clean readable silhouette, no anti-aliasing, no blur, isolated on transparent background,
@@ -446,6 +453,7 @@ text, watermark, jpeg artifacts, busy background, cropped, extra limbs, deformed
 
 ```text
 16bit像素风，2D俯视角炸弹人玩法游戏资源，像素点清晰，1像素选择性深色描边，
+**所有元素底座中心严格对齐格子中心，只允许向上增高，不允许半格或整格偏移**，
 12–20色高饱和玩具配色，2–3阶硬边平涂，少量抖动，左上打光，剪影清晰，
 无抗锯齿无模糊，透明背景，游戏可用精灵图
 ```
@@ -499,6 +507,7 @@ same palette and 1px outline, transparent background, even spacing, no labels
 
 **通用**
 - [ ] 40×40 网格对齐，无半像素
+- [ ] **所有元素底座（footprint）中心与格子中心重合，无半格/整格偏移；只有高度可向上溢出**
 - [ ] 透明底干净，无白边/黑边
 - [ ] 1px 选择性描边，颜色为固有色加深或近黑
 - [ ] 左上光源一致，顶亮底暗
@@ -517,6 +526,7 @@ same palette and 1px outline, transparent background, even spacing, no labels
 
 **地图**
 - [ ] 地板四边无缝
+- [ ] **墙/砖底座 40×40 与格子完全重合、中心对齐；组合墙按整数格覆盖并居中**
 - [ ] 墙/砖底边对齐格子，向上溢出高度一致
 - [ ] 砖块 die 帧同画布、碎块+白烟
 - [ ] 组合墙格数正确（宽高均为 40 的整数倍或明确溢出）

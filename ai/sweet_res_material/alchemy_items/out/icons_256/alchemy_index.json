@@ -1,0 +1,122 @@
+﻿[
+    {
+        "file":  "dew.png",
+        "name":  "dew",
+        "row":  1,
+        "col":  1,
+        "srcW":  412,
+        "srcH":  372,
+        "srcX":  129,
+        "srcY":  139
+    },
+    {
+        "file":  "spring_water.png",
+        "name":  "spring_water",
+        "row":  1,
+        "col":  2,
+        "srcW":  413,
+        "srcH":  366,
+        "srcX":  676,
+        "srcY":  154
+    },
+    {
+        "file":  "bottle_small.png",
+        "name":  "bottle_small",
+        "row":  1,
+        "col":  3,
+        "srcW":  303,
+        "srcH":  362,
+        "srcX":  1271,
+        "srcY":  153
+    },
+    {
+        "file":  "bottle_medium.png",
+        "name":  "bottle_medium",
+        "row":  1,
+        "col":  4,
+        "srcW":  264,
+        "srcH":  449,
+        "srcX":  1834,
+        "srcY":  101
+    },
+    {
+        "file":  "bottle_large.png",
+        "name":  "bottle_large",
+        "row":  2,
+        "col":  1,
+        "srcW":  323,
+        "srcH":  506,
+        "srcX":  172,
+        "srcY":  607
+    },
+    {
+        "file":  "fruit_unripe.png",
+        "name":  "fruit_unripe",
+        "row":  2,
+        "col":  2,
+        "srcW":  346,
+        "srcH":  373,
+        "srcX":  720,
+        "srcY":  681
+    },
+    {
+        "file":  "fruit_ripe.png",
+        "name":  "fruit_ripe",
+        "row":  2,
+        "col":  3,
+        "srcW":  384,
+        "srcH":  391,
+        "srcX":  1237,
+        "srcY":  671
+    },
+    {
+        "file":  "herb_bundle.png",
+        "name":  "herb_bundle",
+        "row":  2,
+        "col":  4,
+        "srcW":  443,
+        "srcH":  448,
+        "srcX":  1749,
+        "srcY":  645
+    },
+    {
+        "file":  "lingzhi.png",
+        "name":  "lingzhi",
+        "row":  3,
+        "col":  1,
+        "srcW":  457,
+        "srcH":  356,
+        "srcX":  107,
+        "srcY":  1227
+    },
+    {
+        "file":  "soulgrass.png",
+        "name":  "soulgrass",
+        "row":  3,
+        "col":  2,
+        "srcW":  434,
+        "srcH":  393,
+        "srcX":  662,
+        "srcY":  1200
+    },
+    {
+        "file":  "dew_alt.png",
+        "name":  "dew_alt",
+        "row":  3,
+        "col":  3,
+        "srcW":  403,
+        "srcH":  392,
+        "srcX":  1220,
+        "srcY":  1211
+    },
+    {
+        "file":  "spring_water_alt.png",
+        "name":  "spring_water_alt",
+        "row":  3,
+        "col":  4,
+        "srcW":  339,
+        "srcH":  404,
+        "srcX":  1795,
+        "srcY":  1200
+    }
+]

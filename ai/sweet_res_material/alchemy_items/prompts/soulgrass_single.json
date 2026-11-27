@@ -1,0 +1,8 @@
+[
+  {
+    "name": "soulgrass_single",
+    "image": "D:\\sixgod\\gitproject\\test\\Code\\Demo\\Assets\\Data\\Sprites\\Item\\9001.png",
+    "seed": 401,
+    "prompt": "single game item icon, 16-bit pixel art, 2D alchemy material, a small clump of soul-returning grass: five thick pale ice-blue grass blades with rounded tips fanning upward from one narrow base, a tiny glowing white bud at the center, two small floating spirit sparkles, thick 1px selective dark navy outline, flat cel shading with 2-3 tones, saturated toy palette, top-left light, bold simple silhouette that stays readable when shrunk to 45x45, no thin hair-like strands, no text, no watermark, centered, plain flat cream background (#F7F1E3), no shadow, no floor, no gradient, no anti-aliasing, no blur, no 3D render. Match the chunky pixel rendering and candy gloss of the reference image, but do not copy its bottle shape or red potion."
+  }
+]

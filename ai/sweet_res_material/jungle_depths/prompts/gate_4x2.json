@@ -1,0 +1,8 @@
+[
+  {
+    "name": "jungle_depths_gate_4x2",
+    "image": "D:\\ai\\git_tools\\common\\ai\\sweet_res_material\\jungle_depths\\out\\ref_l2.png",
+    "seed": 1402,
+    "prompt": "16-bit pixel art single multi-tile prop for a top-down bomberman-style pale-green jungle stage: a 4x2 HOLLOW ANCIENT TREE GATE. One single object on a flat plain cream background (#F7F1E3), no frame, no border, no text, no labels, no watermark, no characters. Canvas: the prop's base footprint is exactly 4 cells wide by 2 cells tall (1280x640 px) at the bottom, centered horizontally and bottom-aligned, and the structure may grow 160 px upward above that footprint (total canvas 1280x800 px). Build it from two massive ancient tree trunks forming a wide arch over a dark hollow opening, with big surface roots spreading across the full 1280-wide base, moss, ferns and a few mushrooms; carve one small coiled snake on the left root as a subtle accent. Base footprint must read as a solid 4x2 blocking structure (the hollow opening is decorative, not a walkable hole). View: 3/4 top-down, front facing the viewer, top surfaces brightest, bases darker. Style: crisp chunky pixels, 1px selective dark-green outline, flat cel shading with 2-3 tones, pale-green palette (pale jade stone, soft sage, mint, young leaf green, cream highlights, warm brown bark), medium-soft daylight, top-left light, no anti-aliasing, no blur, no drop shadow, no 3D render, no isometric camera. Base center exactly at the center of the 4x2 footprint, no half-cell offset."
+  }
+]

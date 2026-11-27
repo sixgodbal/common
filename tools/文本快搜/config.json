@@ -2,7 +2,8 @@
   "version": 1,
   "settings": {
     "paths": [
-      "D:\\sixgod\\gitproject\\slgconfiguration\\excel"
+      "D:\\sixgod\\gitproject\\test\\Code",
+      "D:\\sixgod\\gitproject\\slgconfiguration"
     ],
     "extensions": "xlsx",
     "exclude_dirs": "",
@@ -14,6 +15,6 @@
     "max_results": 3000,
     "workers": 0,
     "always_on_top": false,
-    "window_geometry": "1309x894+141+52"
+    "window_geometry": "1180x780+370+100"
   }
 }
